@@ -10,7 +10,7 @@ call vundle#begin()
 " let Vundle manage Vundle, required
 Plugin 'VundleVim/Vundle.vim'
 
-source ./vundle-plugins.vim
+source ~/.vim/vundle-plugins.vim
 
 " All of your Plugins must be added before the following line
 call vundle#end()            " required
