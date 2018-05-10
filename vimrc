@@ -4,5 +4,6 @@ set nocompatible
 filetype plugin on
 
 "" Loads configuration fragments
-source configuration/netrw.vim
-source configuration/look_n_feel.vim
+for f in split(glob('~/.vim/vimrc.d/*.vim'), '\n')
+    exe 'source' f
+endfor
