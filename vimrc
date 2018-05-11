@@ -1,3 +1,5 @@
+execute pathogen#infect()
+
 set nocompatible 
 
 "" Activates filetype plugin and reads 'after' settings
