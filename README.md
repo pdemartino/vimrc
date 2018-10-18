@@ -13,4 +13,4 @@ echo "source $HOME/.vim/vimrc" > $HOME/.vimrc
 ```
 
 ## Plugins
-All the plugins are cloned as submodules and managed by Pathogen, you'll get as submodule as well
+All the plugins are cloned as submodules and managed by Vim Plug, you'll get as submodule as well

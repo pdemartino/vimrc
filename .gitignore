@@ -2,3 +2,6 @@
 colors/
 # NetRW
 .netrwhist
+
+# Vim plug
+plugged/*
