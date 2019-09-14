@@ -2,7 +2,6 @@
 
 ## How to install
 
-```
 # Backup your config
 mv $HOME/.vimrc $HOME/vimrc-backup
 mv $HOME/.vim $HOME/vim-backup
